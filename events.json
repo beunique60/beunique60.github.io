@@ -1,0 +1,25 @@
+{
+  "ads": {
+    "firstGamesFree": 3,
+    "everyNGames": 3,
+    "minSeconds": 180
+  },
+  "starGoal": 8,
+  "starChance": 0.36,
+  "events": [
+    {
+      "id": "festival-etoiles",
+      "start": "2026-11-14",
+      "end": "2026-11-30",
+      "starChance": 0.5,
+      "n": [
+        "Festival des étoiles : étoiles plus fréquentes !",
+        "Star festival: more stars!",
+        "Festival de estrellas: ¡más estrellas!",
+        "Sternenfest: mehr Sterne!",
+        "Festival das estrelas: mais estrelas!",
+        "مهرجان النجوم: نجوم أكثر!"
+      ]
+    }
+  ]
+}
